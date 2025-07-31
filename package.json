@@ -1,0 +1,22 @@
+{
+  "name": "ai-notepad",
+  "version": "1.0.0",
+  "description": "An AI-powered notepad for summarizing notes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "notepad",
+    "summarization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
+  }
+}
