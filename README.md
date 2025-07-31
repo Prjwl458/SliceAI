@@ -27,4 +27,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/sliceai.git
+   git clone https://github.com/Prjwl458/SliceAI.git
