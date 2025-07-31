@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 - HTML, CSS, JavaScript  
-- OpenAI GPT via API  
+- Gemini API  
 - VS Code + Gemini AI for dev process  
 - `.env` support (API key protected via `.gitignore`)
 
