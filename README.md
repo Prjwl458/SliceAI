@@ -28,3 +28,5 @@
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Prjwl458/SliceAI.git
+
+![image alt](https://github.com/Prjwl458/SliceAI/blob/def8310e85ece2ec8302f55fce2c63a76fe4a736/Screenshot%202025-07-31%20193427.jpg)
