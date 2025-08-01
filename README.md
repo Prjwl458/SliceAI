@@ -1,6 +1,6 @@
 # 🚀 SliceAI
 
-**SliceAI** is a lightweight AI-powered notepad that summarizes any written content with a single click. Built with love, JavaScript, and OpenAI's API — it's your personal AI assistant for slicing long texts into bite-sized clarity.
+**SliceAI** is a lightweight AI-powered notepad that summarizes any written content with a single click. Built with JavaScript, and Gemini's API — it's your personal AI assistant for slicing long texts into bite-sized clarity.
 
 ---
 
